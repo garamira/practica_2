@@ -1,1 +1,2 @@
-puts ’Hello world’
+#!/usr/bin/ruby
+puts 'Hello world'
